@@ -302,3 +302,4 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         parallel-finished: true
+docker-mysql-version: "5.7.9"
